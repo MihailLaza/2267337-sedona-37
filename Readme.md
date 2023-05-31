@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Лазарчук Михаил](https://up.htmlacademy.ru/htmlcss/37/user/2267337).
-* Наставник: [Иван Жарков](https://up.htmlacademy.ru/htmlcss/37/user/191422).
+* Наставник: [Иван Жарков](https://up.htmlacademy.ru/htmlcss/37/user/191422). 
 
 ---
 
